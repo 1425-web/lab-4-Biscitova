@@ -1,0 +1,19 @@
+H2{
+    color: blue;
+    font-family: Lobster;
+}
+.cat{
+    color: red;
+    font-size: 16px;
+}
+p{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+.r{
+    color: blueviolet;
+}
+
+li{
+    background:aqua;
+}
